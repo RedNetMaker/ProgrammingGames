@@ -14,6 +14,9 @@
 | Screeps | Практика | JS | [Ссылка](https://screeps.com/) |
 | Lia | Практика | Java, Python, Kotlin | [Ссылка](https://www.liagame.com/) |
 | Swarm | Практика | Свой язык | [Ссылка](https://github.com/swarm-game/swarm) |
+| SQL Murder Mystery | Практика | SQL | [Ссылка](https://mystery.knightlab.com/) |
+| The Deadlock Empire | Практика | C# | [Ссылка](https://deadlockempire.github.io/) |
+| Codewars | Практика | Любой | [Ссылка](https://www.codewars.com/) |
 
 ## Алгоритмы
 |Название|Направление|Ссылка|
