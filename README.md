@@ -27,6 +27,7 @@
 | Cyber DoJo | Практика | ? | [Ссылка](https://github.com/cyber-dojo/cyber-dojo) |
 | TIS-100 | Практика | ? | [Ссылка](https://store.steampowered.com/app/370360/TIS100/) |
 | CSS Battle | Практика | HTML, CSS | [Ссылка](https://cssbattle.dev/) |
+| LearnGitBranching | Изучение | Git | [Ссылка](https://learngitbranching.js.org/?locale=ru_RU) |
 
 ## Алгоритмы
 | Название | Направление | Ссылка |
