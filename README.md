@@ -26,6 +26,7 @@
 | CSS Diner | Изучение | CSS | [Ссылка](https://flukeout.github.io/) |
 | Cyber DoJo | Практика | ? | [Ссылка](https://github.com/cyber-dojo/cyber-dojo) |
 | TIS-100 | Практика | ? | [Ссылка](https://store.steampowered.com/app/370360/TIS100/) |
+| CSS Battle | Практика | HTML, CSS | [Ссылка](https://cssbattle.dev/) |
 
 ## Алгоритмы
 | Название | Направление | Ссылка |
