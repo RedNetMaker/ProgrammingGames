@@ -32,3 +32,9 @@
 |---|---|---|
 | Shenzhen I/O | Практика | [Ссылка](https://store.steampowered.com/app/504210/SHENZHEN_IO/) |
 | 7 Billion Humans | Практика | [Ссылка](https://store.steampowered.com/app/792100/7_Billion_Humans/) |
+
+## Визуальное программирование
+| Название | Направление | Ссылка |
+|---|---|---|
+| Gladiabots | Практика | [Ссылка](https://gladiabots.com/) |
+
