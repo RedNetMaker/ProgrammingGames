@@ -29,14 +29,23 @@
 | CSS Battle | Практика | HTML, CSS | [Ссылка](https://cssbattle.dev/) |
 | LearnGitBranching | Изучение | Git | [Ссылка](https://learngitbranching.js.org/?locale=ru_RU) |
 
-## Алгоритмы
+## Алгоритмы и логика
 | Название | Направление | Ссылка |
 |---|---|---|
 | Shenzhen I/O | Практика | [Ссылка](https://store.steampowered.com/app/504210/SHENZHEN_IO/) |
 | 7 Billion Humans | Практика | [Ссылка](https://store.steampowered.com/app/792100/7_Billion_Humans/) |
+| Virtual Circuit Board | Практика | [Ссылка](https://store.steampowered.com/app/1885690/Virtual_Circuit_Board/) |
 
 ## Визуальное программирование
 | Название | Направление | Ссылка |
 |---|---|---|
 | Gladiabots | Практика | [Ссылка](https://gladiabots.com/) |
+
+## Хакерство
+| Название | Направление | Ссылка |
+|---|---|---|
+| TryHackMe | Изучение | [Ссылка](https://tryhackme.com/) |
+| RingZer0 Team Online CTF | Изучение | [Ссылка](https://ringzer0ctf.com/home) |
+| Hack the Box | Изучение | [Ссылка](https://www.hackthebox.com/) |
+| PicoCTF | Изучение | [Ссылка](https://picoctf.org/) |
 
