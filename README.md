@@ -49,3 +49,5 @@
 | Hack the Box | Изучение | [Ссылка](https://www.hackthebox.com/) |
 | PicoCTF | Изучение | [Ссылка](https://picoctf.org/) |
 
+
+- [] тест
